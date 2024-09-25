@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Likith Ponnanna</h1>
 <h3 align="left">I am a versatilist at Machine Learning, working on the full stack of machine learning lifecycle</h3>
 
-As a Machine Learning Engineer :robot:, my role involves architecting, development and deployment of the machine learning applications at scale. I am currently specialized in Computer Vision and NLP domain. My current research area as a member of the R&D team is in multi-modal video anomaly models. 
+As a Machine Learning Engineer :robot:, I specialize in building scalable, high-performance AI solutions across various domains. 
 
 🤔  I'm interested in all things data: **Machine Learning, Data Science, Cloud , DevOps and MLOps** <br/>
-🔭  My current research is in  **multi-modal video anomaly models** <br/>
+🔭  My current research is in **Multi-Modal Models** and **Large Language Models** <br/>
 
 
 <h4 align="left">
@@ -45,8 +45,8 @@ me.hello()
 
 ### 📫 How to reach me:
 
-- Email: [contact@likithponnanna.com](mailto:contact@likithponnanna.com)
-- Website: [likithponnanna.com](https://www.likithponnanna.com/)
+- Email: [contact@likith.com](mailto:contact@likith.com)
+- Website: [likith.com](https://www.likith.com/)
 - LinkedIn: [@likith-ponnanna](https://www.linkedin.com/in/likith-ponnanna/)
 
 
